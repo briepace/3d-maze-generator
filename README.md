@@ -6,3 +6,5 @@ The algorithm used is a 2D algorithm adjusted for a 3rd dimension. It can be com
 ```
 g++ -o main Node.cpp Maze.cpp main.cpp
 ```
+
+The mazes generated are true 3D mazes in that at each point in the maze there is the possibility of being able to go forward, backward, left, right, up, or down.
